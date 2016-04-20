@@ -1,0 +1,4 @@
+﻿ID,Name,EatSolsId,SolNum,SoulChgMin,SoulChgMax,EatSolsIdE,SolNumE,SoulChgEMin,SoulChgEMax
+int,string,int[],int[],int,int,int[],int[],int,int
+ID,名称,吞灵质所需四灵质ID,吞灵质数目,当前阶级吞灵后5属性改变最小值,当前阶级吞灵后5属性改变最大值,吞灵质所需五灵质ID,吞灵质数目,当前阶级吞灵后5属性改变最小值（加入土）,当前阶级吞灵后5属性改变最大值（加入土）
+1002,荀墨,800001;800002;800003;800004,1;1;1;1,-5,8,800001;800002;800003;800004;800005,1;1;1;1;1,2,8

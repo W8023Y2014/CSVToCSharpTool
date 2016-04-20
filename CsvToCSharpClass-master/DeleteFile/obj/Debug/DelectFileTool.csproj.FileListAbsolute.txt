@@ -1,0 +1,13 @@
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\DeleteFile.exe
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\DeleteFile.pdb
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\bin\Debug\DeleteFile.exe
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\bin\Debug\DeleteFile.pdb
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\DelectFileTool.csprojResolveAssemblyReference.cache
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\MainWindow.g.cs
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\App.g.cs
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\DeleteFile_MarkupCompile.cache
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\DeleteFile_MarkupCompile.lref
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\MainWindow.baml
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\DeleteFile.g.resources
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\DeleteFile.Properties.Resources.resources
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DeleteFile\obj\Debug\DelectFileTool.csproj.GenerateResource.Cache

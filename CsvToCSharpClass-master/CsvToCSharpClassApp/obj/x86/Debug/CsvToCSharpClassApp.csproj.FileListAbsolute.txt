@@ -1,0 +1,7 @@
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpClass-master\CsvToCSharpClassApp\bin\Debug\CsvToCSharpClassApp.exe
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpClass-master\CsvToCSharpClassApp\bin\Debug\CsvToCSharpClassApp.pdb
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpClass-master\CsvToCSharpClassApp\obj\x86\Debug\CsvToCSharpClassApp.csprojResolveAssemblyReference.cache
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpClass-master\CsvToCSharpClassApp\obj\x86\Debug\CsvToCSharpClassApp.exe
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpClass-master\CsvToCSharpClassApp\obj\x86\Debug\CsvToCSharpClassApp.pdb
+F:\工作\CsvToCSharpClass-master\CsvToCSharpClass-master\CsvToCSharpClassApp\obj\x86\Debug\CsvToCSharpClassApp.exe
+F:\工作\CsvToCSharpClass-master\CsvToCSharpClass-master\CsvToCSharpClassApp\obj\x86\Debug\CsvToCSharpClassApp.pdb

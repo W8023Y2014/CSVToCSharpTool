@@ -1,0 +1,13 @@
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\bin\Debug\CsvToCSharpTool.exe
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\bin\Debug\CsvToCSharpTool.pdb
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\CsvToCSharpTool.csprojResolveAssemblyReference.cache
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\MainWindow.g.cs
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\App.g.cs
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\CsvToCSharpTool_MarkupCompile.cache
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\CsvToCSharpTool_MarkupCompile.lref
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\MainWindow.baml
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\CsvToCSharpTool.g.resources
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\CsvToCSharpTool.Properties.Resources.resources
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\CsvToCSharpTool.csproj.GenerateResource.Cache
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\CsvToCSharpTool.exe
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\CsvToCSharpTool\obj\Debug\CsvToCSharpTool.pdb

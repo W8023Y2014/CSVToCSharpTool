@@ -1,0 +1,11 @@
+﻿ID,Name,Path,Type,Information,OriginFaceTo
+int,string,string,int,string,int
+资源ID,人物模型动画名称,人物模型动画路径,资源类型,资源描述,面向
+600022001,monster_200001,Role/monster_200001/Baked/monster_200001,2,混沌角色动画,1
+600021001,hero_100001,Role/hero_100001/Baked/hero_100001,2,杨思思角色动画,0
+600021002,hero_100002,Role/hero_100002/Baked/hero_100002,2,陆吾角色动画,0
+600021003,hero_100003,Role/hero_100003/Baked/hero_100003,2,荀默角色动画,1
+600022002,monster_200002,Role/monster_200002/Baked/monster_200002,2,火耳鼠角色动画,1
+600022003,monster_200003,Role/monster_200003/Baked/monster_200003,2,水耳鼠角色动画,1
+600022004,monster_200004,Role/monster_200004/Baked/monster_200004,2,木耳鼠角色动画,1
+600022005,monster_200005,Role/monster_200005/Baked/monster_200005,2,木耳鼠角色动画,1

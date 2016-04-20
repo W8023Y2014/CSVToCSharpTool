@@ -1,0 +1,6 @@
+﻿ID,Name,Gender,Race,Occupation,Vigour,VigourLim,VigGrowth,Pep,PepLim,PepGrowth,Spirit,SpiritLim,SpGrowth,Force,ForceLim,ForGrowth,Intel,IntelLim,IntGrowth,HpConv,ColConv,FieConv,FieReConv,ManaReConv,AttConv,MagConv,CreConv,ForgConv,IconPath,BustPath,BarragePath,AtkSpeed,MoveSpeed,NoneFidTime,FidReSp,SkillID,Prefab
+int,string,int,int,int,int,int,float,int,int,float,int,int,float,int,int,float,int,int,float,float,float,float,float,float,float,float,float,float,string,string,string,int,int,int,float,int[],int
+ID,名称,性别,种族,职业,初始精,精极限值,精成长,初始气,气极限值,气成长,初始神,神极限值,神成长,初始武,武极限值,武成长,初始智,智极限值,智成长,血量_精转化系数,采集_精转化系数,气罩量_气转化系数,神_战后气罩回复系数,神_魔法回复系数,物攻_武转化系数,法攻_武转化系数,造物_智转化率,锻造_智转化率,头像路径,半身像路径,弹幕路径,攻速,移动速度,气罩真空状态恢复时间,气罩回复速度,技能ID,预置物
+1001,杨思思,2,1,1,15,1000,1.5,10,1000,1.1,9,1000,0.8,10,1000,1.2,15,1000,1.6,0.3,0.5,20.2,0.05,0.5,0.1,0.2,0.3,0.2,Icon/icon_1001,Bust/bust_1001,Brg/brg_1001,1700,200,10,0.06,300005;300006;300007;300008;300009,600021001
+1002,荀墨,1,1,1,12,1000,1.7,8,1000,1.6,9,1000,1.2,8,1000,1.6,10,1000,1.7,0.4,0.6,21,0.05,0.5,0.2,0.3,0.4,0.3,Icon/icon_1002,Bust/bust_1002,Brg/brg_1002,1800,210,10,0.1,300020;300021;300022;300023;300024,600021003
+100001,织妇,2,3,4,15,1000,1.5,10,1000,1.1,9,1000,0.8,10,1000,1.2,15,1000,1.6,0.3,0.5,20.2,0.05,0.5,0.1,0.2,0.3,0.2,Icon/icon_100001,Bust/bust_100001,Brg/brg_100001,1700,200,10,0.05,,

@@ -1,0 +1,10 @@
+F:\work\Share\CSV\CsvToCSharpClass-master\DelectFile\bin\Debug\DelectFile.exe
+F:\work\Share\CSV\CsvToCSharpClass-master\DelectFile\bin\Debug\DelectFile.pdb
+F:\work\Share\CSV\CsvToCSharpClass-master\DelectFile\obj\Debug\DelectFile.csprojResolveAssemblyReference.cache
+F:\work\Share\CSV\CsvToCSharpClass-master\DelectFile\obj\Debug\DelectFile.exe
+F:\work\Share\CSV\CsvToCSharpClass-master\DelectFile\obj\Debug\DelectFile.pdb
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DelectFile\obj\Debug\DelectFile.exe
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DelectFile\obj\Debug\DelectFile.pdb
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DelectFile\bin\Debug\DelectFile.exe
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DelectFile\bin\Debug\DelectFile.pdb
+C:\Users\zhaogh\Desktop\CsvToCSharpClass-master\DelectFile\obj\Debug\DelectFile.csprojResolveAssemblyReference.cache

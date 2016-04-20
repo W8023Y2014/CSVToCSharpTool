@@ -1,0 +1,14 @@
+﻿<Window x:Class="CsvToCSharpTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CsvToCSharpTool"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Background="#FF00FF23">
+        <ListBox x:Name="UrlStr" HorizontalAlignment="Left" Height="246" Margin="18,64,0,0" VerticalAlignment="Top" Width="476" AllowDrop="True" FontFamily="Arial" ToolTip="拖拽文件到此处吧" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" SelectionChanged="UrlStr_SelectionChanged" Background="#FFD4CFCF"/>
+        <Label x:Name="label" Content="请拖拽文件到下边框内" HorizontalAlignment="Center" Margin="94,19,122,0" VerticalAlignment="Top" Width="301" HorizontalContentAlignment="Center" FontSize="24" Height="40"/>
+
+    </Grid>
+</Window>
